@@ -31,9 +31,9 @@ export default function Home() {
       <HowToBuy3D
         heading='How to Book'
         items={[
-          { title: 'Inquire', description: 'Reach out for shoot inquiries.', image: '/images/placeholder1.avif',} ,
-          { title: 'Schedule', description: 'Choose a convenient time.', image: '/images/placeholder2.avif', },
-          { title: 'Shoot Day', description: 'Let’s create magic together!', image: '/images/placeholder3.avif', }
+          { title: 'Inquire', description: 'Reach out for shoot inquiries.', image: '/images/placeholder1.avif'},
+          { title: 'Schedule', description: 'Choose a convenient time.', image: '/images/placeholder2.avif' },
+          { title: 'Shoot Day', description: 'Let’s create magic together!', image: '/images/placeholder3.avif' }
         ]}
       />
 
